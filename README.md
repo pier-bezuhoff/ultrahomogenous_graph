@@ -1,0 +1,3 @@
+### Naive test for graph 2- and 3-ultrahomogeneity
+See [https://en.wikipedia.org/wiki/Homogeneous_graph](wiki) for definitions.  
+My first try at Rust, please don't judge harshly...
