@@ -1,0 +1,12 @@
+[package]
+name = "ultrahomogenous_graph"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ferris-says = "0.3.2"
+itertools = "0.14.0"
+
+[profile.dev]
+opt-level = 3
+overflow-checks = false
